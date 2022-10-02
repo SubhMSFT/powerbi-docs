@@ -60,7 +60,7 @@ You can also enable large dataset storage format by using PowerShell. You must h
 2. From a PowerShell admin prompt, install the [MicrosoftPowerBIMgmt](/powershell/module/microsoftpowerbimgmt.data/) module.
 
     ```powershell
-    Install-Module -Name MicrosoftPowerBIMgmt
+    Install-Module -Name MicrosoftPowerBIMgmt.Data
     ```
 
 3. Run the following cmdlets to sign in and check the dataset storage mode.
